@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 IT Engineering Student @ CUSAT
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+<img align="right" width="370" height="290" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 - 🔭 I’m currently working on my cource
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on open source
