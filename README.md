@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Information Technology Engineering Student
+IT Engineering Student @ CUSAT
 - 🔭 I’m currently working on my cource
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on open source
