@@ -18,7 +18,7 @@ Information Technology Engineering Student
 ### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-[![Navas's github stats](https://github-readme-stats.vercel.app/api?username=NavasMuhammed-r&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats)
+[![Navas's github stats](https://github-readme-stats.vercel.app/api?username=NavasMuhammed&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats)
 - 
 - 
 
