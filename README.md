@@ -13,7 +13,7 @@ IT Engineering Student @ CUSAT
  <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammed-navas-358815221/)  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/navas__muhammed/) 
  [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/navas3444a3)
 -  ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/344/python--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/344/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/344/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/344/html-5--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/344/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/344/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/344/python--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/344/c-programming.png" />   <img height="50" width="50" src="https://img.icons8.com/color/344/html-5--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/color/344/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/344/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/344/javascript--v1.png"/>   <img height="50" width="50" src="https://img.icons8.com/color/344/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/344/dart.png"/>
 
 ### IDE and Tools I Use
