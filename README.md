@@ -8,7 +8,7 @@ IT Engineering Student @ CUSAT
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with MongoDB
 - 💬 Ask me about anything related to tech
-- ⚡ Fun fact: I love siting infront of a monitor for hours
+- ⚡ Fun fact: I love sitting infront of a monitor for hours
 - 📫 How to reach me: 
  <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/muhammed-navas-358815221/)  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/navas__muhammed/) 
  [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/navas3444a3)
