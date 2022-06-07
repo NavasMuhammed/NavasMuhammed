@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="10px"> 
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Navas's+GitHub+Profile!)](https://git.io/typing-svg)
 
 IT Engineering Student @ CUSAT
