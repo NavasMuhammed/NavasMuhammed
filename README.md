@@ -22,7 +22,6 @@ IT Engineering Student @ CUSAT
 ### 💻 Workspace Spec
 <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/Intel%20Core_i5_10300H-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)"/><br/> <br/>
 
-![Navas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavasMuhammed&theme=dark)    [![Navas's github stats](https://github-readme-stats.vercel.app/api?username=NavasMuhammed&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats)
-
+![Navas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavasMuhammed&theme=dark)    [![Navas's github stats](https://github-readme-stats.vercel.app/api?username=NavasMuhammed&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats) 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NavasMuhammed&theme=dark" alt="NavasMuhammed" />
 
