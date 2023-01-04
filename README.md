@@ -25,3 +25,5 @@ IT Engineering Student @ CUSAT
 ![Navas's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NavasMuhammed&theme=dark)
 [![Navas's github stats](https://github-readme-stats.vercel.app/api?username=NavasMuhammed&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=NavasMuhammed&show_icons=true&theme=dark&locale=en" alt="NavasMuhammed" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NavasMuhammed&theme=dark" alt="NavasMuhammed" />
+
