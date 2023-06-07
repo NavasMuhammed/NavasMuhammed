@@ -19,7 +19,7 @@ Btech IT Graduate from CUSAT
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png"/>    <img height="50" width="50" src="https://img.icons8.com/color/344/figma--v1.png"/>  <img height="50" width="50" src="https://img.icons8.com/fluency/344/sublime-text.png"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 
-### 💻 Workspace Spec
+### 💻 Workspace Specs
 <img src="https://img.shields.io/badge/NVIDIA-RTX2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img src="https://img.shields.io/badge/Intel%20Core_i5_10300H-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)"/><br/> <br/>
 
 ![Navas's most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NavasMuhammed&theme=dark)    [![Navas's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NavasMuhammed&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats) 
