@@ -24,4 +24,7 @@ Btech IT Graduate from CUSAT
 
 ![Navas's most used languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NavasMuhammed&theme=dark)    [![Navas's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NavasMuhammed&hide=issues,contribs&theme=dark)](https://github.com/NavasMuhammed/github-readme-stats) 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=NavasMuhammed&theme=merko)](https://git.io/streak-stats)
+### 🏢 At Helixo
 [![GitHub Streak](https://streak-stats.demolab.com?user=Navas-Muhammed&theme=merko)](https://git.io/streak-stats)
+
