@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Navas's+GitHub+Profile!)](https://git.io/typing-svg)
 
 Btech IT Graduate from CUSAT
-<img align="right" width="370" height="290" src="https://www.westfordonline.com/wp-content/uploads/2024/05/course-1.gif">
+<img   align="right" width="370" height="290" src="https://www.westfordonline.com/wp-content/uploads/2024/05/course-1.gif" style="filter: brightness(0.4);">
 - 🔭 I’m currently working at Threasury media
 - 🌱 I’m currently learning Remix and Liquid
 - 💬 Ask me about anything related to Shopify and tech
